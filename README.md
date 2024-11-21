@@ -3,9 +3,9 @@
 Many papers, examples, and tutorials on interpolation with Radial Basis Functions (RBF) are understandably aimed at mathematicians, computer scientists, and mathematically inclined developers. Consequently, much of the literature can be overwhelming and difficult to fully comprehend for those without a strong mathematical background, including the author. However, in recent years, professionals such as geologists and geotechnical engineers—who may have little to no programming experience—have come to rely on RBF interpolation in their daily work through commercial implicit modeling software.
 To address this gap, the author has developed a more accessible explanation of the RBF interpolation process in the form of an Excel workbook.
 
-This workbook features two interactive examples derived from familiar sources:
-  • A grade interpolation example from [4], using the source values from [8].
-  • A surface boundary example from [1].
+This workbook features two interactive examples derived from familiar sources:<br>
+  • A grade interpolation example from [4], using the source values from [8].<br>
+  • A surface boundary example from [1].<br>
 
 The workbook provides guidance on how to use the example worksheets, along with the underlying theory explained step by step.
 
